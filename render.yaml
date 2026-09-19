@@ -1,6 +1,6 @@
 # ==========================================
 # Render Blueprint Configuration (render.yaml)
-# StudyOS Full Stack Deployment
+# StudyOS Full Stack Deployment (Free Tier)
 # ==========================================
 services:
   - type: web
@@ -19,9 +19,3 @@ services:
         generateValue: true
       - key: JWT_SECRET_KEY
         generateValue: true
-      - key: DATABASE_URL
-        value: sqlite:////app/data/studyos.db
-    disk:
-      name: studyos-data
-      mountPath: /app/data
-      sizeGB: 1
