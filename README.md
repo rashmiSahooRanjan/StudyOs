@@ -62,3 +62,9 @@ Frontend Web App will be running on `http://localhost:5173`.
 11. **Study DNA & Analytics**: Peak productive hours, 90-day activity heatmap, and earned milestone badges.
 12. **Notes Library**: Markdown knowledge base with tagging, search, and formulas.
 13. **Settings & Data Ownership**: Complete JSON database backup and CSV session logs export.
+
+## 👨‍💻 Authors
+
+| Name                          | Role      |
+| ----------------------------- | --------- |
+| **Rashmi Ranjan Sahoo** |  Developer |
